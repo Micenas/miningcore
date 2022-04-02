@@ -39,7 +39,7 @@ Depending on your OS Version run either of these scripts:
 ```
 or
 ```console
-./build-ubuntu-20.04
+./build-ubuntu-18.04.sh
 ```
 or
 ```console
